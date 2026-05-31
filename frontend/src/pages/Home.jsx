@@ -175,7 +175,7 @@ function Home() {
             <img
               src={assets.mascot}
               alt="Moksha Mascot"
-              className="w-48 sm:w-64 md:w-80 lg:w-96 drop-shadow-2xl"
+              className="w-48 sm:w-64 md:w-80 lg:w-96 drop-shadow-2xl animate-float"
             />
           </div>
         </section>
